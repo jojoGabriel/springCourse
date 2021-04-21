@@ -1,0 +1,14 @@
+package io.gabriel.springdemo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class DatabaseFortuneServie implements FortuneService {
+
+	@Override
+	public String getFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

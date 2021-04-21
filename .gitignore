@@ -1,0 +1,8 @@
+*.jar
+*.class
+*.zip
+!lib/**/*.jar
+!lib/**/*.class
+!lib/**/*.zip
+.metadata
+
